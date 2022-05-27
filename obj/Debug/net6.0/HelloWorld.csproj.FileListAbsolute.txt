@@ -1,0 +1,15 @@
+/Users/huntersoldan/Desktop/csharp27/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld
+/Users/huntersoldan/Desktop/csharp27/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/Users/huntersoldan/Desktop/csharp27/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/Users/huntersoldan/Desktop/csharp27/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/Users/huntersoldan/Desktop/csharp27/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/Users/huntersoldan/Desktop/csharp27/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/huntersoldan/Desktop/csharp27/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huntersoldan/Desktop/csharp27/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/huntersoldan/Desktop/csharp27/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/Users/huntersoldan/Desktop/csharp27/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/huntersoldan/Desktop/csharp27/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/Users/huntersoldan/Desktop/csharp27/HelloWorld/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/Users/huntersoldan/Desktop/csharp27/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/Users/huntersoldan/Desktop/csharp27/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/Users/huntersoldan/Desktop/csharp27/HelloWorld/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
